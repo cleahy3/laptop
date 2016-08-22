@@ -8,7 +8,7 @@ This script is designed to install and configure Sparta student and trainer macO
 2. Run `xcode-select --install` to isnall the Command Line tools
 2. Run install script: `cd ~; bash <(curl -s https://raw.githubusercontent.com/spartaglobal/laptop/master/mac)` 
 3. Type the admin password.
-4. Wait **Ages**!
+4. Wait _**Ages**_!
 5. Install XCode (via App Store)
 6. Celebrate 🍻!
 
